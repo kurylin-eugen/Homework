@@ -1,3 +1,0 @@
-Weight =input()
-Heihgt =input()
-BMI= Weight/Heihgt 
